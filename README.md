@@ -61,5 +61,5 @@ I'm a final year CSE student.
 ### 🔥 My Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=harshitkumar7525&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=harshitk3527&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
